@@ -24,3 +24,5 @@ Fitur :
 10. Laporan Barang Keluar
 
 LINK HOSTING APLIKASI : https://inventorybarang.site
+username : admin@gmail.com
+password : 123456
