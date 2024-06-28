@@ -9,6 +9,7 @@ Anggota Kel :
 4. Valens Florencia/2226240038
 5. Kevin Fernando Cahyadi/2226240053
 6. Erloy Dilon/2226240012
+
 Tema : Membuat Aplikasi Inventory Barang Menggunakan framework Laravel
 Fitur :
 1. Login & Logout
