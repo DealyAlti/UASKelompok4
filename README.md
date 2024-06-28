@@ -22,3 +22,5 @@ Fitur :
 8. Barang Keluar
 9. Laporan Barang Masuk
 10. Laporan Barang Keluar
+
+LINK HOSTING APLIKASI : inventorybarang.site
