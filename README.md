@@ -16,7 +16,7 @@ Fitur :
 2. Edit Profile
 3. Dashboard
 4. Kategori Barang
-5. Nama Barang & Stok Ril Time
+5. Nama Barang & Stok Real Time
 6. Nama Supplier
 7. Barang Masuk
 8. Barang Keluar
